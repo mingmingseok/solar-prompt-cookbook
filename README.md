@@ -37,7 +37,7 @@ Each chapter is structured with:
 
 In the example section, a comparison between the results of good and bad prompts is provided. 
 
-Once you're ready to begin, head over to [`Getting Started-Tutorial How-To.`](https://github.com/UpstageAI/Solar_Prompt_Guide/blob/main/Chapter%200.%20Getting%20Started-Tutorial%20How-To.ipynb)
+Once you're ready to begin, head over to [`Getting Started-Tutorial How-To.`](https://github.com/)
 
 ---
 ## Table of Contents
@@ -64,7 +64,9 @@ Once you're ready to begin, head over to [`Getting Started-Tutorial How-To.`](ht
 - Chapter 8: Resolving Hallucinations
 - Chapter 9: Complex Prompt Chanining 
 
-**Appendix. Use Cases**
+**Appendix. Use Cases (Industry Use Cases)**
+
+**Appendix. Use Cases (Prompt Optimization)** 
 
 
 
