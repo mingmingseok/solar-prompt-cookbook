@@ -1,8 +1,8 @@
 openai
 pickleshare
 langchain-upstage
-llama_index.llms.upstage
 llama_index
+llama_index.llms.upstage
 langgraph
 langchain_core
 langchain_openai
