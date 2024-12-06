@@ -1,0 +1,9 @@
+openai
+pickleshare
+langchain-upstage
+llama_index.llms.upstage
+llama_index
+langgraph
+langchain_core
+langchain_openai
+python-dotenv
