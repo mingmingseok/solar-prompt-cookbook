@@ -31,7 +31,7 @@ Start with prompt engineering; move to fine-tuning if results are inconsistent o
 --- 
 ## Course Structure and Content 
 
-This cookbook is designed to guide non-expert users in optimizing their interactions with Upstage’s [`Solar Pro Preview`](https://www.upstage.ai/products/solar-pro-preview) model.
+This cookbook is designed to guide non-expert users in optimizing their interactions with Upstage’s [`Solar Pro`](https://www.upstage.ai/products/solar-pro) model.
 
 Each chapter is structured with:
 - a lesson
@@ -40,36 +40,36 @@ Each chapter is structured with:
 
 In the example section, a comparison between the results of good and bad prompts is provided. 
 
-Once you're ready to begin, head over to [`Getting Started-Tutorial How-To.`](https://github.com/)
+Once you're ready to begin, head over to [`Getting Started-Tutorial How-To.`](./00_Chapter%200.%20Getting%20Started-Tutorial%20How-To.ipynb)
 
 ---
 ## Table of Contents
 
 ### **0. Setting Up Your Environment**
 
-- Chapter 0: Getting Started-Tutorial How-To
+- [Chapter 0: Getting Started-Tutorial How-To](./00_Chapter%200.%20Getting%20Started-Tutorial%20How-To.ipynb)
 
 ### **1. Introduction to Prompts**
 
-- Chapter 1: Basic Prompt Structure
-- Chapter 2: Direct and Clear Prompts
-- Chapter 3: Five Focal Prompt Elements and Types
+- [Chapter 1: Basic Prompt Structure](./01_Chapter%201.%20Basic%20Prompt%20Structure.ipynb)
+- [Chapter 2: Direct and Clear Prompts](./02_Chapter%202.%20Direct%20and%20Clear%20Prompts.ipynb)
+- [Chapter 3: Five Focal Prompt Elements and Types](./03_Chapter%203.%20Five%20Focal%20Prompt%20Elements%20and%20Types%20.ipynb)
 
 ### **2. Basic Prompt Engineering Techniques** 
 
-- Chapter 4: Examples and Few-Shot Prompting
-- Chapter 5: Role and Style Prompting 
-- Chapter 6: Structured vs. Unstructured Prompting
-- Chapter 7: Reasoning and Chain-of-Thought Prompting
+- [Chapter 4: Examples and Few-Shot Prompting](./04_Chapter%204.%20Examples%20and%20Few-Shot%20Prompting.ipynb)
+- [Chapter 5: Role and Style Prompting](./05_Chapter%205.%20Role%20and%20Style%20Prompting.ipynb)
+- [Chapter 6: Structured vs. Unstructured Prompting](./06_Chapter%206.%20Unstructured%20vs.%20Structured%20Prompting.ipynb)
+- [Chapter 7: Reasoning and Chain-of-Thought Prompting](./07_Chapter%207.%20Reasoning%20and%20Chain-of-Thought%20Prompting.ipynb)
 
 ### **3. Advanced Prompt Engineering Techniques** 
 
-- Chapter 8: Resolving Hallucinations
-- Chapter 9: Complex Prompt Chaining
+- [Chapter 8: Resolving Hallucinations](./08_Chapter%208.%20Resolving%20Hallucinations.ipynb)
+- [Chapter 9: Complex Prompt Chaining](./09_Chapter%209.%20Complex%20Prompt%20Chaining.ipynb)
 
-**Appendix. Use Cases (Industry Use Cases)**
+[**Appendix. Use Cases: Industry Use Cases**](./10_Appendix.%20Use%20Cases:%20Industry%20Use%20Cases.ipynb)
 
-**Appendix. Use Cases (Prompt Optimization)** 
+[**Appendix. Use Cases: Prompt Optimization**](./11_Appendix.%20Use%20Cases:%20Prompt%20Optimization.ipynb)
 
 
 
